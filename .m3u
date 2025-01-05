@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1200px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="VENEZUELA", Venezolana de Television
-http://ultrapremium.cloud:8080/franciscojavierriquelmeriquelme/Nu846Mdhz6p/23181
+http://globalstreamz.xyz:3050/CamilleE/yhW4RsdGzc/611449
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLNeBQiYdyJ9zwZdju2BGe5uUYMJIEVyEVuA&s" group-title="VENEZUELA", Vale TV
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/chunklist_w1019554630.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bDS3BCJMdUt-WXiymGSS1LAl_w-P5LLeUb7kYt8xTj2mlHiLFhgIX2FvAfnRaTXS4Tim6RjJrg=s900-c-k-c0x00ffffff-no-rj" group-title="VENEZUELA", Televen TV
-https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/fstl=exp=1732023715~data=ip=200.8.54.171%2Cid=TLV-GUEST%2Cpid=255%2Cdid=N%2FA%2Csid=WBS~acl=%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~hmac=efbd16113eeb2e9635b288119317054fc1f7ce20ea2037694f837f7f2747b220/index_3.m3u8
+https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/fstl=exp=1736172616~data=ip=200.8.54.168%2Cid=TLV-GUEST%2Cpid=255%2Cdid=N%2FA%2Csid=WBS~acl=%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~hmac=8adeeaa4fb151ed12b3f1d016fa2dfe33ba80400731d78a2a2b7ddb63531a5a1/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Z5fDIvLsa6edk4fIOCtl-SkrFqK7cWdcwA&s" group-title="VENEZUELA", VepacoTV
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
@@ -22,7 +22,7 @@ http://45.173.198.59:8080/hls/nginx3.m3u8
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" group-title="VENEZUELA", Rusia Today
-https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
+http://7766758226541005580.pserd.xyz:80/live/seRGio1005L/Afttdakwm121/1005580.ts
 
 #EXTINF:-1 tvg-logo="https://www.reformatv.net/images/reforma-tv.png" group-title="VENEZUELA", Reforma TV
 https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
@@ -40,10 +40,13 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/IbsrUvd9Zh0RDU.png/revision/latest?cb=20210604191656&path-prefix=es" group-title="VENEZUELA", Venevision TV
-http://ultrapremium.cloud:8080/franciscojavierriquelmeriquelme/Nu846Mdhz6p/250993
+http://7766758226541005639.pserd.xyz:80/live/seRGio1005L/Afttdakwm121/1005639.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1719385463704715264/loiPnnIs_400x400.jpg" group-title="VENEZUELA", Canal i
 http://ultrapremium.cloud:8080/franciscojavierriquelmeriquelme/Nu846Mdhz6p/251004
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZoYI512S_sOxGtFr_lrnreJ0eM8nYfdbLyg&s" group-title="VENEZUELA", Venevision Internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeeboh-Ok0YCOMXjb52wFJj-Af4VCeUZOBesgFDoxMyti8SfaD-d_YbGSTg5IQTxPgNNQ&usqp=CAU" group-title="VENEZUELA", Avila TV
+https://live-b.cf.dmcdn.net/sec2(T7YT-2zsmIXrwXupJLgYmwf0LyF7ftr-I1lP6u-RtQ5VnOgOyeXRfRObx1SYCZhVhaVsJVs1CEc347d0DdXolO_gnTcj8A8uQXkJ1dSO3tiajBTsNXgQ8W-FVL-ZlCTC)/dm/3/x9a8gdk/s/live-480.m3u8
